@@ -1,0 +1,15 @@
+{
+    "VS CODE Extension Development": {
+        "prefix": "VS CODE Extension Development(Launch Extension)",
+        "body": [
+            "\t\t{",
+            "\t\t\t\"${name:name}\": \"${name:Launch Extension}\",",
+            "\t\t\t\"${name:type}\": \"${name:extensionHost}\",",
+            "\t\t\t\"${name:request}\": \"${name:launch}\",",
+            "\t\t\t\"${name:args}\": [",
+            "\t\t\t\t\"${name:--extensionDevelopmentPath=\\${workspaceFolder\\}}\"",
+            "\t\t\t]",
+            "\t\t},"
+        ]
+    }
+}
