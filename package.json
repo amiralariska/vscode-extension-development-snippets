@@ -1,0 +1,39 @@
+{
+    "name": "vscode-extension-development-snippets",
+    "displayName": "VSCODE Extension Development Snippets",
+    "description": "Launch VSCODE Extension",
+    "publisher": "amiralariska",
+    "icon": "icon/vscode-extension-development-snippets-logo.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/amiralariska/vscode-extension-development-snippets"
+    },
+    "author": {
+        "name": "Amiral Ariska"
+    },
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "VSCODE Extension Development Snippets",
+        "VSCODE Extension Development",
+        "VSCODE Extension",
+        "VSCODE",
+        "vscode extension development snippets",
+        "vscode extension development",
+        "vscode extension",
+        "vscode"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "jsonc",
+                "path": "./snippets/vscode-extension-development.code-snippets"
+            }
+        ]
+    }
+}
