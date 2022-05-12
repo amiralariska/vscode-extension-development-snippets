@@ -15,6 +15,10 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "galleryBanner": {
+        "color": "#005089",
+        "theme": "light"
+    },
     "categories": [
         "Snippets"
     ],
