@@ -13,14 +13,21 @@
     },
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.60.0"
     },
     "galleryBanner": {
         "color": "#005089",
-        "theme": "light"
+        "theme": "dark"
     },
     "categories": [
-        "Snippets"
+        "Extension Packs",
+        "Language Packs",
+        "Programming Languages",
+        "Themes",
+        "Snippets",
+        "Notebooks",
+        "Keymaps",
+        "Other"
     ],
     "keywords": [
         "VSCODE Extension Development Snippets",
