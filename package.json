@@ -27,6 +27,7 @@
         "Snippets",
         "Notebooks",
         "Keymaps",
+        "Debuggers",
         "Other"
     ],
     "keywords": [
@@ -37,7 +38,28 @@
         "vscode extension development snippets",
         "vscode extension development",
         "vscode extension",
-        "vscode"
+        "vscode",
+        "Launch VSCODE Extension",
+        "VSCODE Extension Packs",
+        "Extension Packs",
+        "VSCODE Language Packs",
+        "Language Packs",
+        "VSCODE Programming Languages",
+        "Programming Languages",
+        "VSCODE Theme",
+        "Theme",
+        "VSCODE Themes",
+        "Themes",
+        "VSCODE Snippets",
+        "Snippets",
+        "VSCODE Notebooks",
+        "Notebooks",
+        "VSCODE Keymaps",
+        "Keymaps",
+        "VSCODE Debuggers",
+        "Debuggers",
+        "VSCODE Debugging",
+        "Debugging"
     ],
     "contributes": {
         "snippets": [
