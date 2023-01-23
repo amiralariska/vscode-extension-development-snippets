@@ -9,7 +9,20 @@
             "\t\t\"${name:args}\": [",
             "\t\t\t\"${name:--extensionDevelopmentPath=\\${workspaceFolder\\}}\"",
             "\t\t]",
-            "\t},"
+            "\t}"
+        ]
+    },
+    "VS CODE Extension Development(Custom)": {
+        "prefix": "VS CODE Extension Development(Custom Launch Extension)",
+        "body": [
+            "\t{",
+            "\t\t\"${name:name}\": \"${1:Launch Extension}\",",
+            "\t\t\"${name:type}\": \"${name:extensionHost}\",",
+            "\t\t\"${name:request}\": \"${name:launch}\",",
+            "\t\t\"${name:args}\": [",
+            "\t\t\t\"${name:--extensionDevelopmentPath=\\${workspaceFolder\\}}\"",
+            "\t\t]",
+            "\t}$0"
         ]
     }
 }
