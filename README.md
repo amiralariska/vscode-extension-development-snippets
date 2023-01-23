@@ -16,11 +16,20 @@
 1. Open .vscode folder and then open launch.json file
 [![VSCODE Snippets Tutorial](https://xp.io/storage/1fqiekNh.gif)](https://xp.io/storage/1fqiekNh.gif)
 2. Click "Add Configuration"
-[![VSCODE Snippets Tutorial 2](https://xp.io/storage/1fqlASNR.gif)](https://xp.io/storage/1fqlASNR.gif)
+[![VSCODE Snippets Tutorial 2](https://xp.io/storage/1gstEeGT.gif)](https://xp.io/storage/1gstEeGT.gif)
 3. press up arrow on your keyboard until you see `VS CODE Extension Development(Launch Extension)` and then press enter
 [![VSCODE Snippets Tutorial 3](https://xp.io/storage/1fqpBDze.gif)](https://xp.io/storage/1fqpBDze.gif)
 4. and now your launch.json code snippets has been created
-> Note: If you want to add configuration on launch.json file just follow this steps☝
+
+### How to Add Configuration And Change Configuration Name on launch.json file
+1. Open .vscode folder and then open launch.json file
+[![VSCODE Snippets Tutorial - Change Configuration Name](https://xp.io/storage/1fqiekNh.gif)](https://xp.io/storage/1fqiekNh.gif)
+2. Click "Add Configuration"
+[![VSCODE Snippets Tutorial 2 - Change Configuration Name](https://xp.io/storage/1gstEeGT.gif)](https://xp.io/storage/1gstEeGT.gif)
+3. press up arrow on your keyboard until you see `VS CODE Extension Development(Launch Extension)` and then press enter and you can change the configuration name For Example: Launch VSCODE Extension 
+[![VSCODE Snippets Tutorial 3 - Change Configuration Name](https://xp.io/storage/1fqpBDze.gif)](https://xp.io/storage/1fqpBDze.gif)
+4. and now your launch.json code snippets has been created
+> Note: If you want to add configuration or change configuration name on launch.json file just follow this steps☝
 
 For more information About VSCODE Extension Development Snippets Release<br>
 Click link down below<br>
