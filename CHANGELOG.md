@@ -36,3 +36,7 @@
 ## 0.0.5
 ### Update README
 - Sorry for a mistake, because we are always making a mistake at README Documentation for a VSCODE Snippets Tutorial
+
+## 0.1.0
+### Update README
+- Fixed: Replace VS CODE Extension Development(Launch Extension) to VS CODE Extension Development(Custom Launch Extension) on How to Add Configuration And Change Configuration Name on launch.json file Section
