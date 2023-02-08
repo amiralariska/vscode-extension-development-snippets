@@ -32,3 +32,7 @@
 ## 0.0.4
 ### Update VSCODE Extension
 - Update VSCODE keywords extensions
+
+## 0.0.5
+### Update README
+- Sorry for a mistake, because we are always making a mistake at README Documentation for a VSCODE Snippets Tutorial
