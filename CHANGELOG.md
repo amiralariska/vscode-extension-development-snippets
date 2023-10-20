@@ -40,3 +40,8 @@
 ## 0.1.0
 ### Update README
 - Fixed: Replace VS CODE Extension Development(Launch Extension) to VS CODE Extension Development(Custom Launch Extension) on How to Add Configuration And Change Configuration Name on launch.json file Section
+
+## 0.1.1
+### Update README
+- Add Thank you for 1k install Heading
+- Change Url
