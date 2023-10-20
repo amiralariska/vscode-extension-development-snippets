@@ -33,6 +33,6 @@
 
 For more information About VSCODE Extension Development Snippets Release<br>
 Click link down below<br>
-[VSCODE Extension Development Snippets Release](https://github.com/amiralariska/vscode-extension-development-snippets-release)
+[VSCODE Extension Development Snippets Steps](https://github.com/amiralariska/vscode-extension-development-snippets-steps)
 
 **Enjoy**
